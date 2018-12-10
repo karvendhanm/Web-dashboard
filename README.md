@@ -1,6 +1,20 @@
-# Web-dashboard
-Web_data_dashboard using data from World Bank website
+# World bank data web dashboard
+Data from world bank [website](https://datacatalog.worldbank.org/dataset/world-development-indicators) has been presented as a web dashboard
 
-This is just for my reference. No documentation has been added as yet.
+You can find the web-dashboard by clicking [here](https://data-worldbank.herokuapp.com/)
+![image](https://github.com/karvendhanm/Web-dashboard/blob/master/dashboard.png)
 
-This project's webpage is "https://data-worldbank.herokuapp.com/"
+### Table of Contents
+
+1. [Project Description](#motivation)
+2. [Licensing, Authors, and Acknowledgements](#licensing)
+
+
+## Project Description<a name="motivation"></a>
+
+Raw data from world bank website was taken, cleaned and presented in the form of a web-dashboard.
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+Must give credit to world bank for the data. Otherwise, feel free to use the code here as you would like!
+
